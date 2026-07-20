@@ -1,0 +1,12 @@
+# Local project artifacts
+Model-Optimizer/
+saqad_venv/
+
+# Common Python cache and environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.venv*/
